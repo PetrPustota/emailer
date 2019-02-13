@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.neoflex.testapp.emailer.EmailerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.041 s - in ru.neoflex.testapp.emailer.EmailerApplicationTests
